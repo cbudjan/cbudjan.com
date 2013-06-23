@@ -1,0 +1,15 @@
+User-agent: Googlebot
+Disallow: /theme/
+Disallow: /tag/
+Disallow: /static/images/
+
+User-agent: Googlebot-Mobile
+Disallow: /theme/
+Disallow: /tag/
+Disallow: /static/images/
+
+User-agent: *
+Disallow: /
+
+SITEMAP: http://christoph.budjan.de/sitemap.xml
+
