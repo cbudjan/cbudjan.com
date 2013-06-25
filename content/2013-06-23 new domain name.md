@@ -1,7 +1,7 @@
 Title: Moving to Amazon S3
 Date: 2013-06-23
 Tags: news, web
-Slug: new-domain-name
+Slug: amazon-s3
 Excerpt: A run-through of how to host a static website on S3.
 
 ## Moving to Amazon S3 &raquo;
@@ -45,7 +45,9 @@ Finally, if you are using a custom domain name (**mysite.com** in our example) y
 
 ## Bonus: Version Control With Git &raquo;
 
-If you follow the above steps you are all set to host your static html/css/js files on Amazon S3. However, the underlying Markdown/RST and Python files are not backed up this way. You could just upload your entire website content to S3, but there is a more elegant solution, in particular if you are interested in version control à la Subversion: [Git](http://git-scm.com/). Git requires some getting used to but luckily there are several good tutorials around[^git1] [^git2]. Once your website is version controlled via Git, it is just a `git push origin master` command away from being backed up on [Github](https://github.com/). This not only increases transparency of your work but is also very much in the spirit of open source/open science. The beauty part of such a system is it's flexibility: beyond a personal website, a static file engine can also be used to generate anything relating to your research such as manuscripts, reports and electronic lab notebooks[^ELN]. This is something I am seriously considering and working on. Stay tuned.
+If you follow the above steps you are all set to host your static html/css/js files on Amazon S3. However, the underlying Markdown/RST and Python files are not backed up this way. You could just upload your entire website content to S3, but there is a more elegant solution, in particular if you are interested in version control à la Subversion: [Git](http://git-scm.com/). Git requires some getting used to but luckily there are several good tutorials around[^git1] [^git2]. 
+
+Once your website is version controlled via Git, it is just a `git push origin master` command away from being backed up on [Github](https://github.com/). This not only increases transparency of your work but is also very much in the spirit of open source/open science. The beauty part of such a system is its flexibility: beyond a personal website, a static file engine can also be used to generate anything relating to your research such as manuscripts, reports and electronic lab notebooks[^ELN]. This is something I am seriously considering and working on. Stay tuned.
 
 [R53]: http://aws.amazon.com/route53/
 [Route53]: http://docs.aws.amazon.com/AmazonS3/latest/dev/website-hosting-custom-domain-walkthrough.html#root-domain-walkthrough-switch-to-route53-as-dnsprovider
