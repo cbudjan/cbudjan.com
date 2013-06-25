@@ -4,7 +4,7 @@ Tags: science, news
 Slug: intro-web-site
 Excerpt: Overview of what this web site is all about.
 
-### **Hello and Welcome to my web site!** &raquo;
+## Hello and Welcome to my web site! &raquo;
 
 I hope you will enjoy the contents provided on the following pages. First and foremost it should provide fellow scientists a way to easily get in [contact](/pages/contact.html) with me. It is also meant to give you an overview of and latest updates on my [research](/pages/research.html). 
 
