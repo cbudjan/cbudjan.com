@@ -8,7 +8,7 @@ The development of an embryo involves a series of spatio-temporally ordered cell
 
 Studying general design principles of core circuitries controlling cell fate decisions as well as elucidating how cells integrate and process information about their environment (including neighboring cells) to generate specific responses might help to understand how organisms go from stochasticity at the molecular and cellular level to deterministic behaviors on the tissue and organismal level.
 
-***  
+***
 
 ## PhD Project &raquo;
 ### Background
