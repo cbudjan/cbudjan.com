@@ -335,7 +335,8 @@ div.entry-overview h1,div.entry-overview div.summary,div.entry-overview div.summ
 
 div.entry-overview h1 {
   margin: 0;
-  font-size: 24px;
+  font-size: 25px;
+  /*font-size: 17px/25px;*/
   font-weight: bold;
 }
 
@@ -355,6 +356,7 @@ div.entry-overview div.date {
   text-align: right;
   font-style: italic;
   font-size: 14px;
+  /*font-size: 14px;*/
 }
 
 /*div.entry-overview h1:after         { content: " —"; }*/
